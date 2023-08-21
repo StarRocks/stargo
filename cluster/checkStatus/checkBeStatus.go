@@ -8,11 +8,7 @@ import(
     "stargo/module"
 //    "database/sql"
 )
-
-
-// 哪个大聪明在 2.2 版本改了 show backends
-// 我真是谢谢你，艹
-
+    
 /*
 type BeStatusStruct struct{
 
